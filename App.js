@@ -17,7 +17,7 @@ import NavigationView from "./components/NavigationView";
 import WeatherMap from "./components/WeatherMap";
 
 const { height, width: SCREEN_WIDTH} = Dimensions.get("window");
-const API_KEY = 'eb3186fda0c8e3b6f1d876e3775908f2';
+const API_KEY = 'YOUR_API_KEY';
 const icons = {
     Clouds: 'cloudy',
     Clear: 'day-sunny',
